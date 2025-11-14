@@ -1,4 +1,3 @@
-
 # 05-User
 
 User is a microservice that is responsible  for User Logins and Registrations Service in RobotShop e-commerce portal.
